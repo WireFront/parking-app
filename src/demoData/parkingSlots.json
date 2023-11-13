@@ -1,0 +1,85 @@
+[{
+  "entryPointId": 1,
+  "parkingSpots": [
+    {
+      "spotId": 1,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 2,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 3,
+      "status": "Available",
+      "type": "M"
+    },{
+      "spotId": 4,
+      "status": "Available",
+      "type": "M"
+    },{
+      "spotId": 5,
+      "status": "Available",
+      "type": "L"
+    },{
+      "spotId": 6,
+      "status": "Available",
+      "type": "L"
+    }]
+},{
+  "entryPointId": 2,
+  "parkingSpots": [
+    {
+      "spotId": 7,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 8,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 9,
+      "status": "Occupied",
+      "type": "M"
+    },{
+      "spotId": 10,
+      "status": "Occupied",
+      "type": "M"
+    },{
+      "spotId": 11,
+      "status": "Available",
+      "type": "L"
+    },{
+      "spotId": 12,
+      "status": "Available",
+      "type": "L"
+    }]
+},{
+  "entryPointId": 3,
+  "parkingSpots": [
+    {
+      "spotId": 13,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 14,
+      "status": "Available",
+      "type": "S"
+    },{
+      "spotId": 15,
+      "status": "Available",
+      "type": "M"
+    },{
+      "spotId": 16,
+      "status": "Available",
+      "type": "M"
+    },{
+      "spotId": 17,
+      "status": "Available",
+      "type": "L"
+    },{
+      "spotId": 18,
+      "status": "Available",
+      "type": "L"
+    }]
+}]
